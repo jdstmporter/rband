@@ -1,0 +1,8 @@
+include *.rst
+recursive-include src *.hpp *.cpp
+exclude src/main.cpp
+recursive-include tests *.py slugs.wav
+recursive-include ext *.py
+include *.py  *.cfg
+
+
