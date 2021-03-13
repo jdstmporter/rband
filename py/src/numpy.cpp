@@ -5,6 +5,7 @@
  *      Author: julianporter
  */
 
+#include <algorithm>
 #include "numpy.hpp"
 #include <stdexcept>
 #include <map>
